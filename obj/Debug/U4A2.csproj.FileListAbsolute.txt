@@ -1,0 +1,13 @@
+H:\U4A2\U4A2\bin\Debug\U4A2.exe.config
+H:\U4A2\U4A2\bin\Debug\U4A2.exe
+H:\U4A2\U4A2\bin\Debug\U4A2.pdb
+H:\U4A2\U4A2\obj\Debug\U4A2.csproj.AssemblyReference.cache
+H:\U4A2\U4A2\obj\Debug\U4A2.Form1.resources
+H:\U4A2\U4A2\obj\Debug\U4A2.Form2.resources
+H:\U4A2\U4A2\obj\Debug\U4A2.Properties.Resources.resources
+H:\U4A2\U4A2\obj\Debug\U4A2.csproj.GenerateResource.cache
+H:\U4A2\U4A2\obj\Debug\U4A2.csproj.CoreCompileInputs.cache
+H:\U4A2\U4A2\obj\Debug\U4A2.exe
+H:\U4A2\U4A2\obj\Debug\U4A2.pdb
+H:\U4A2\U4A2\obj\Debug\U4A2.Form3.resources
+H:\U4A2\U4A2\obj\Debug\U4A2.Form4.resources
